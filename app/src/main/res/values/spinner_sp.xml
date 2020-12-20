@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sspinner">
+        <item>ouvrir navigation</item>
+    <item>composer de numero</item>
+    <item>afficher maps</item>
+    <item>prendre photo</item>
+    <item>contact</item>
+    </string-array>
+
+</resources>
